@@ -8,7 +8,7 @@
 
 ### **Description**
 
-This Note Taker was created to be able to write and save notes so that thoughts and tasks could be organized and created.
+This Note Taker was created to be able to write and save notes so that thoughts and tasks could be organized and completed.
 
 ### **Code Source**
 
